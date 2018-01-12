@@ -1,0 +1,8 @@
+[arduino][python]_scrolling_text_serial.zip
+by Walfas (http://ee.walfas.org)
+
+The Arduino program displays serial input on an LoL shield
+
+The Python (2.7) program fetches entries in multiple RSS feeds and
+outputs them to the serial port in multiple packets if the
+entry is too long. It requires pySerial and FeedParser libraries.
